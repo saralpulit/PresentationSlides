@@ -1,8 +1,6 @@
 ## PresentationSlides
 
-This repository contains slides from various presentations. I have made them publicly-available so that you can download and reuse them.
-
-If you reuse images or slides, please cite me and/or this GitHub repository as the source.
+This repository contains slides from various presentations that I have made publicly-available.
 
 If you have questions on any of these presentations, please feel free to get in touch! (s.l.pulit@umcutrecht.nl)
 
