@@ -1,8 +1,8 @@
 ## Presentations
 
-This repository contains slides and posters from various presentations that I have made publicly-available.
+This repository contains slides and posters from various presentations, posters, etc. that I have made publicly available.
 
-If you have questions on any of these presentations, please feel free to get in touch! (s.l.pulit@umcutrecht.nl)
+If you have questions, please feel free to contact me! (sara.pulit@gmail.com)
 
 ### whradjbmi_gwas.ASHG_2018.pulit.v2.pdf
 Poster from American Society of Human Genetics 2018 (San Diego, California, USA). "Meta-analysis of genome-wide association studies for body fat distribution in 694,649 individuals of European ancestry."
